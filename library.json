@@ -1,0 +1,13 @@
+{
+    "name": "CherryNet",
+    "version": "0.1.0",
+    "description": "Shared ESP32 networking library for CherryCipher projects",
+    "keywords": [
+        "esp32",
+        "wifi",
+        "ble",
+        "networking"
+    ],
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}
